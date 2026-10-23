@@ -1,0 +1,4 @@
+Potwierdzam, że utworzone repozytorium llm-course-project,
+obejmujące przygotowaną strukturę katalogów, wyodrębniony pakiet src/llm_course,
+skonfigurowane środowisko, pliki .env.template i .gitignore oraz zablokowane wersje zależności,
+jest spójne i będzie przyrostowo rozwijane we wszystkich kolejnych laboratoriach kursu.

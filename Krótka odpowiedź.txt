@@ -1,0 +1,8 @@
+Zgodnie z materiałem kursowym: tokenizer posiada własny 
+słownik i reguły podziału. Tokenem może być całe słowo, ale też 
+zaledwie jego fragment, pojedynczy znak interpunkcyjny, spacja 
+zakodowana z fragmentem tekstu, a nawet część emoji.
+W języku polskim, przez rzadsze występowanie w danych treningowych
+oraz znaki diakrytyczne, jedno słowo często rozbijane jest na wiele
+mniejszych tokenów. Ponadto dwa różne modele (np. Qwen i BERT) 
+podzielą to samo zdanie w zupełnie inny sposób.

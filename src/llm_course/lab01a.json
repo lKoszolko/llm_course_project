@@ -1,0 +1,30 @@
+{
+  "tokenizer_name": "Qwen/Qwen2.5-0.5B-Instruct",
+  "results": [
+    {
+      "text": "Kowalski",
+      "ids": [45466, 6808],
+      "count": 2
+    },
+    {
+      "text": "print('Hello!')",
+      "ids": [3374, 11, 6, 9707, 0, 9, 8],
+      "count": 7
+    },
+    {
+      "text": "123456",
+      "ids": [14605, 16],
+      "count": 2
+    },
+    {
+      "text": "🚀",
+      "ids": [108253],
+      "count": 1
+    },
+    {
+      "text": "Zażółć gęślą jaźń",
+      "ids": [53, 101851, 45266, 115206, 54593, 27170, 71500, 114675, 41188],
+      "count": 9
+    }
+  ]
+}
